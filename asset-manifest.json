@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cart-application/static/css/main.49faa5e3.css",
+    "main.js": "/cart-application/static/js/main.29996b98.js",
+    "index.html": "/cart-application/index.html",
+    "main.49faa5e3.css.map": "/cart-application/static/css/main.49faa5e3.css.map",
+    "main.29996b98.js.map": "/cart-application/static/js/main.29996b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.29996b98.js"
+  ]
+}
